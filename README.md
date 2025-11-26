@@ -14,7 +14,7 @@ These documents define:
 
 This repository serves as the **authoritative source** for all licensing and IP documentation related to Project Polychrome.
 
----
+
 
 ## Contents
 
@@ -32,7 +32,7 @@ The full **Project Polychrome Proprietary License Agreement**, including:
 
 This is the primary legal document governing how the game and its assets may be legally used.
 
----
+
 
 ### [`EULA`](https://github.com/EpicChallengerKP/ProjectPolychrome-License/blob/main/eula.txt)
 The **End User License Agreement** displayed to players upon installation or first launch of the game.
@@ -49,7 +49,7 @@ The EULA defines:
 
 This document controls how players interact with the game once they acquire a copy.
 
----
+
 
 ## Purpose of This Repository
 
@@ -62,7 +62,7 @@ This repository exists to:
 
 This repository **does not** contain game assets, source code, or confidential materials.
 
----
+
 
 ## Copyright Owners
 
@@ -78,7 +78,7 @@ Ownership remains valid only if each owner maintains a minimum of **15% total co
 
 All assets, concepts, systems, art, and code created for Project Polychrome fall under this unified IP ownership.
 
----
+
 
 ## Trademark Status
 
@@ -87,7 +87,7 @@ All assets, concepts, systems, art, and code created for Project Polychrome fall
 
 All names, logos, and branding elements are protected as part of the project’s intellectual property.
 
----
+
 
 ## Modding Policy (Summary)
 
@@ -101,7 +101,7 @@ A brief overview — full legal terms are detailed in the `LICENSE` and `EULA`.
 
 All modding activity must follow the detailed terms outlined in the official license.
 
----
+
 
 ## Redistribution Notice
 
@@ -114,7 +114,7 @@ This repository **does not allow**:
 
 Only the **text of the license and EULA** may be linked publicly, and must not be altered.
 
----
+
 
 ## How This Repo Is Used by the Game
 
@@ -127,7 +127,7 @@ This repository is referenced in:
 
 It serves as the **canonical, up-to-date source** for all legal documentation.
 
----
+
 
 ## Contact
 
