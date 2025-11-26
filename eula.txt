@@ -1,0 +1,131 @@
+END USER LICENSE AGREEMENT (EULA)
+Project Polychrome
+Version 1.0 — © 2025 Project Polychrome & Team YABAI YATSU
+All Rights Reserved.
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THE SOFTWARE.
+
+This End User License Agreement (“Agreement”) is a legal contract between you 
+(“User”) and the owners of Project Polychrome (“Developers”), consisting of 
+Kamalpreet Singh Nafray, Aanchal Maurya, Urvika Mehrotra, Deepankar Vaatu, 
+and Kunal Adak.
+
+By installing, accessing, or using Project Polychrome (“the Software”), you 
+agree to be bound by the terms of this Agreement. If you do not agree, you 
+must not install or use the Software.
+
+----------------------------------------------------------------------
+1. LICENSE GRANT
+----------------------------------------------------------------------
+
+The Developers grant you a limited, non-exclusive, non-transferable, 
+revocable license to install and use the Software for personal, 
+non-commercial entertainment purposes only.
+
+You do not own the Software. You are purchasing a license to use it.
+
+----------------------------------------------------------------------
+2. OWNERSHIP
+----------------------------------------------------------------------
+
+All rights, title, and interest in the Software (including art, music, 
+code, designs, characters, story, branding, and all associated assets) 
+are owned exclusively by the Developers.
+
+This Agreement does not transfer any ownership rights to you.
+
+----------------------------------------------------------------------
+3. PERMITTED USES
+----------------------------------------------------------------------
+
+You are permitted to:
+- Install and play the Software on devices you own.
+- Create and use non-commercial mods under the Modding Terms (Section 4).
+- Stream or share gameplay footage non-commercially.
+
+----------------------------------------------------------------------
+4. MODDING TERMS
+----------------------------------------------------------------------
+
+Non-commercial modding is permitted under the following conditions:
+
+- You may extract the Software’s assets solely for the purpose of 
+  creating mods for Project Polychrome.
+- Extracted assets may only be used within your mod.
+- Mods must not include unmodified game assets.
+- Mods must not contain significant or reconstructive portions of the game.
+- Mods must not enable piracy or bypass license checks.
+- Mods must be free. Selling or monetizing mods is prohibited.
+- Mods may only be distributed as user-created files that require the user 
+  to own a legal copy of the Software.
+
+Violation of these terms will result in automatic revocation of modding 
+permission and may lead to legal action.
+
+----------------------------------------------------------------------
+5. PROHIBITED ACTIONS
+----------------------------------------------------------------------
+
+You may NOT:
+
+- Redistribute, upload, or share the Software or its assets.
+- Extract or use game assets in other projects.
+- Sell, license, or monetize the Software or any modified version of it.
+- Reverse engineer, decompile, or attempt to access the underlying source code.
+- Create commercial products based on the Software.
+- Circumvent copy protection or license verification systems.
+- Use the Software in AI datasets, training models, or automated systems.
+- Claim authorship or ownership of the Software.
+
+Any violation may result in termination of this Agreement and legal enforcement.
+
+----------------------------------------------------------------------
+6. TERMINATION
+----------------------------------------------------------------------
+
+This Agreement automatically terminates if you:
+- Violate any provision of this EULA,
+- Attempt to distribute or pirate the Software,
+- Use the Software for unauthorized commercial purposes.
+
+Upon termination, you must immediately cease using the Software and delete 
+all copies in your possession.
+
+----------------------------------------------------------------------
+7. WARRANTY DISCLAIMER
+----------------------------------------------------------------------
+
+The Software is provided “AS IS,” without warranty of any kind.
+The Developers are not liable for:
+
+- Data loss
+- Hardware damage
+- Software conflicts
+- Financial loss
+- Any indirect, incidental, or consequential damages
+
+Your use of the Software is at your own risk.
+
+----------------------------------------------------------------------
+8. JURISDICTION
+----------------------------------------------------------------------
+
+This Agreement is governed by the copyright and intellectual property laws 
+of India, as well as applicable international law including the Berne Convention.
+
+----------------------------------------------------------------------
+9. CONTACT
+----------------------------------------------------------------------
+
+For legal inquiries, permissions, or official communications, contact:
+
+Project Polychrome Legal  
+Team YABAI YATSU  
+Email: (add your official address)
+
+----------------------------------------------------------------------
+END OF AGREEMENT
+----------------------------------------------------------------------
+
+By installing or using Project Polychrome, you acknowledge that you have 
+read, understood, and agreed to this End User License Agreement.
