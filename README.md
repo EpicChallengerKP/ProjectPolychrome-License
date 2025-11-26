@@ -19,7 +19,7 @@ documentation related to Project Polychrome.
 
 ## Contents
 
-### `license`
+### [`license`](https://github.com/EpicChallengerKP/ProjectPolychrome-License?tab=License-1-ov-file)
 The full **Project Polychrome Proprietary License Agreement**, including:
 
 - Copyright ownership  
