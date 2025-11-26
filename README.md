@@ -135,7 +135,7 @@ For official licensing requests, permissions, or legal inquiries:
 
 **Project Polychrome Legal Contact**  
 Team YABAI YATSU  
-Email: *your-team-email-here*
+Email: *will be added later (if i remembered)*
 
 ---
 
