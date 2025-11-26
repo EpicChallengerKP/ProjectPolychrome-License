@@ -1,58 +1,72 @@
 # Project Polychrome — Official Licensing Repository
 
-This repository contains the **official copyright license**, ownership agreement,
-and legal documentation for the video game **Project Polychrome**, developed by  
-**Team YABAI YATSU**.
+This repository contains the **official copyright license**, **End User License Agreement (EULA)**, ownership declarations, and all legal documentation for the video game **Project Polychrome**, developed by **Team YABAI YATSU**.
 
 These documents define:
-- Ownership of the Project Polychrome intellectual property  
-- Legal rights of the core contributors  
-- Use, distribution, and modification permissions  
-- Modding policy  
-- Trademark notices  
-- Restrictions placed on buyers, players, modders, and external parties  
 
-This repository serves as the **authoritative source** for all licensing and IP
-documentation related to Project Polychrome.
+- Ownership of the Project Polychrome intellectual property  
+- Legal rights and obligations of the core contributors  
+- Licensing terms for players and users  
+- Modding permissions and restrictions  
+- Trademark notices  
+- Redistribution rules  
+- Enforcement conditions and liabilities  
+
+This repository serves as the **authoritative source** for all licensing and IP documentation related to Project Polychrome.
 
 ---
 
 ## Contents
 
-### [`license`](https://github.com/EpicChallengerKP/ProjectPolychrome-License?tab=License-1-ov-file)
+### [`LICENSE`](https://github.com/EpicChallengerKP/ProjectPolychrome-License?tab=License-1-ov-file)
 The full **Project Polychrome Proprietary License Agreement**, including:
 
 - Copyright ownership  
-- Contribution-based ownership requirements  
-- Usage rights for players  
-- Permissions and restrictions for modding  
+- Player usage rights  
+- Modding permissions and restrictions  
 - Prohibited actions  
-- Liability & warranty disclaimers  
-- Trademark status (unregistered trademarks)  
-- Enforcement conditions  
-- Contact information for legal/permission requests  
+- Enforcement & liability terms  
+- Trademark status  
+- Jurisdiction and legal definitions  
+- Contact information for permissions or legal inquiries  
 
-This is the primary legal document governing how the game and its assets may be used.
+This is the primary legal document governing how the game and its assets may be legally used.
+
+---
+
+### [`EULA`](https://github.com/EpicChallengerKP/ProjectPolychrome-License/blob/main/eula.txt)
+The **End User License Agreement** displayed to players upon installation or first launch of the game.
+
+The EULA defines:
+
+- What players may and may not do with the game  
+- Ownership rights retained by the developers  
+- Personal-use limitations  
+- Modding rules for end-users  
+- Warranty disclaimers  
+- Termination conditions  
+- Governing jurisdiction  
+
+This document controls how players interact with the game once they acquire a copy.
 
 ---
 
 ## Purpose of This Repository
 
 This repository exists to:
-- Provide transparent, accessible access to the copyright license  
-- Allow external parties (publishers, reviewers, contractors, etc.) to view
-  licensing terms when authorized  
-- Serve as a stable reference link used inside the game, documentation, manuals,
-  and in-engine copyright screens  
-- Maintain version-controlled updates to the Project Polychrome license  
 
-No game assets, source code, or confidential materials are stored here.
+- Provide a transparent, public source for the official legal documents  
+- Allow publishers, reviewers, legal parties, and authorized collaborators to review licensing terms  
+- Serve as a stable reference link inside the game, documentation, and credits  
+- Maintain version-controlled updates to all Project Polychrome legal policies  
+
+This repository **does not** contain game assets, source code, or confidential materials.
 
 ---
 
 ## Copyright Owners
 
-The following individuals are the **sole rightful owners** of the Project Polychrome IP:
+The following individuals are the **sole lawful owners** of the Project Polychrome intellectual property:
 
 - **Kamalpreet Singh Nafray**  
 - **Aanchal Maurya**  
@@ -60,52 +74,67 @@ The following individuals are the **sole rightful owners** of the Project Polych
 - **Deepankar Vaatu**  
 - **Kunal Adak**
 
-Ownership is maintained only if each contributor provides a minimum of **15%**
-of development contribution throughout the project’s lifecycle.
+Ownership remains valid only if each owner maintains a minimum of **15% total contribution** to the project’s development across its lifecycle.
+
+All assets, concepts, systems, art, and code created for Project Polychrome fall under this unified IP ownership.
 
 ---
 
 ## Trademark Status
 
 - **Project Polychrome** — Unregistered Trademark  
-- **Team YABAI YATSU** — Unregistered Trademark
+- **Team YABAI YATSU** — Unregistered Trademark  
 
-All names, branding, and related marks are legally protected as part of the IP.
+All names, logos, and branding elements are protected as part of the project’s intellectual property.
 
 ---
 
 ## Modding Policy (Summary)
 
-A brief overview — full terms are detailed in the `license` file.
+A brief overview — full legal terms are detailed in the `LICENSE` and `EULA`.
 
-- Non-commercial modding is permitted  
+- Non-commercial modding is allowed  
 - Modders may extract assets only for creating Project Polychrome mods  
-- Extracted assets may not be redistributed in their original form  
-- Mods must not contain significant or reconstructive portions of the game  
-- Mods must not enable piracy or bypass ownership requirements  
+- Extracted assets may not be redistributed in original form  
+- Mods must not contain significant or reconstructive game content  
+- Mods must not bypass DRM, enable piracy, or allow unauthorized access  
+
+All modding activity must follow the detailed terms outlined in the official license.
 
 ---
 
 ## Redistribution Notice
 
-This repository **does not permit**:
-- Redistribution of game assets  
-- Copying of the license text for other projects  
-- Public redistribution of game files or protected materials  
+This repository **does not allow**:
 
-Only the license **text** itself may be linked publicly, not modified or reused.
+- Redistribution of any game assets  
+- Reuse of the license or EULA for other projects  
+- Uploading of any protected materials  
+- Commercial use of any of the IP  
+
+Only the **text of the license and EULA** may be linked publicly, and must not be altered.
 
 ---
 
 ## How This Repo Is Used by the Game
 
-Inside Project Polychrome’s:
-- in-game credits  
-- legal splash screen  
-- documentation  
-- development handbook  
+This repository is referenced in:
+
+- In-game legal / credits section  
+- Splash-screen copyright notice  
+- Game documentation and manuals  
+- Internal development handbook  
+
+It serves as the **canonical, up-to-date source** for all legal documentation.
+
+---
+
+## Contact
+
+For official licensing requests, permissions, or legal inquiries:
 
 **Project Polychrome Legal Contact**  
+Team YABAI YATSU  
 Email: *your-team-email-here*
 
 ---
